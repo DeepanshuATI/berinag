@@ -1,5 +1,5 @@
 // app/dashboard/layout.tsx
-import Sidebar from '@/components/Sidebar';
+import Sidebar from '../../components/Sidebar';
 import React from 'react'; // Make sure to import React!
 
 // 1. Define the props type
